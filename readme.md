@@ -50,6 +50,20 @@ Alternatively, the extension can also be used by pasting a TypeScript object int
 Note: The extension only works with JavaScript or TypeScript objects, not other types of data.
 
 
+
+### usage with `shortcuts``
+
+The extension supports the following keyboard shortcuts for pasting the formatted JSON object:
+
+1. `Cmd+F` (for Mac) or `Ctrl+F` (for Windows) 
+2. `Cmd+Shift+V` (for Mac) or `Ctrl+Shift+V` (for Windows)
+
+To paste the formatted JSON object after copying the TypeScript object to the clipboard and pasting into a text area on a webpage that matches the defined "matches" pattern.
+
+
+
+#### Typescript and JSON structure
+
 Here's an example of what the input TypeScript format looks like:
 
 ```typescript
