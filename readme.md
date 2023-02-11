@@ -51,7 +51,7 @@ Note: The extension only works with JavaScript or TypeScript objects, not other 
 
 
 
-### usage with `shortcuts``
+### usage with `shortcuts`
 
 The extension supports the following keyboard shortcuts for pasting the formatted JSON object:
 
@@ -62,7 +62,7 @@ To paste the formatted JSON object after copying the TypeScript object to the cl
 
 
 
-#### Typescript and JSON structure
+### Typescript and JSON structure
 
 Here's an example of what the input TypeScript format looks like:
 
