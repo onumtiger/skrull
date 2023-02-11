@@ -6,7 +6,7 @@ This is a Google Chrome extension that allows users to convert TypeScript object
 ## Installation
 
 1. Download or clone the [repository](https://github.com/onumtiger/skrull/)
-2. Open Google Chrome and go to the [Extensions](chrome://extensions/) page – `chrome://extensions/
+2. Open Google Chrome and go to the [Extensions](chrome://extensions/) page – `chrome://extensions/`
 3. Enable "Developer mode" at the top right corner
 4. Click on "Load unpacked" and select the directory containing the extension files
 5. The extension should now be installed and ready to use
