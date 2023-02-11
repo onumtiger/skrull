@@ -1,0 +1,30 @@
+{
+  "author": "Daniel Onumbu",
+  "background": {
+    "scripts": [
+      "format-on-click.js"
+    ]
+  },
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "format-on-paste.js"
+      ],
+      "matches": [
+        "https://www.w3schools.com/*"
+      ]
+    }
+  ],
+  "description": "This extension allows users to convert TypeScript objects from the Clipboard to JSON format",
+  "manifest_version": 2,
+  "name": "TypeScript to JSON Formatter",
+  "permissions": [
+    "activeTab",
+    "clipboardRead",
+    "clipboardWrite"
+  ],
+  "version": "1.0.0"
+}
