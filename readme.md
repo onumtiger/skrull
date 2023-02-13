@@ -13,6 +13,8 @@ This is a Google Chrome extension that allows users to convert TypeScript object
 
 Note: The extension requires a recent version of Google Chrome.
 
+🦊 Download the Firefox Version [here](https://addons.mozilla.org/developers/addon/2786417/versions) 🦊
+
 
 ## Setup
 
